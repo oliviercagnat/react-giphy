@@ -6,7 +6,8 @@ Exercise from Le Wagon Coding Bootcamp.
 
 # Outlook of the app
 
-https://user-images.githubusercontent.com/75303846/167283682-8ebb8a8e-e582-450a-a35a-55f8ede7620e.mp4
+https://user-images.githubusercontent.com/75303846/167284671-d1bd16b6-ba3f-4557-ad21-d5fd49fc48ed.mp4
+
 
 ## Getting started
 
